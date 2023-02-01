@@ -11,4 +11,4 @@ Best print results with libreoffice "Liberation Mono" 10pt > 64 lines a 80 chara
 
 To not get lost use another sheet to cover next line and a post-it where the results are... happy excersising
 
-It works with Python 3.8.10 but not with Python 3.4.2
+It works at least with Python 3.8.10 but not with Python 3.4.2
