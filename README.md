@@ -1,5 +1,5 @@
 # mathsheets
-Generates basic chainmathtasks in ones_tens_hundrets range for addition and subtraktion also multiply=12x12_sheets and devision=12/12_ sheets
+excersise head arithmetic:: Generates basic math tasks in ones, tens and hundrets range for addition and subtraktion multiply and devisions 
 
 Exampleoutput: https://imgur.com/a/zrgTjBS
 
