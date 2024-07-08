@@ -3,7 +3,7 @@
 
 import random
 
-initial = 99
+initial = 77
 
 for i in range(64):
 	n1 = random.randint(1,9)
